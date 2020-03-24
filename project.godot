@@ -15,4 +15,9 @@ _global_script_class_icons={
 
 [application]
 
-config/name="New Project"
+config/name="Drift"
+run/main_scene="res://Scenes/test.tscn"
+
+[rendering]
+
+quality/driver/driver_name="GLES2"
